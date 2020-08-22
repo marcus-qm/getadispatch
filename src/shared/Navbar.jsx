@@ -4,9 +4,9 @@ import { Home } from "react-feather";
 const Navbar = () => (
   <nav className="navbar navbar-light">
     <div className="container">
-      <a className="navbar-brand">
-        <Home />
-      </a>
+      {/* <a className="navbar-brand"> */}
+      <Home />
+      {/* </a> */}
     </div>
   </nav>
 );
