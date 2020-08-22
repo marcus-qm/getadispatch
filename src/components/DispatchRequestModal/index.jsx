@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Button, Modal, Col, Row, Container } from "react-bootstrap";
+import { Button, Modal } from "react-bootstrap";
 import { Send } from "react-feather";
 
 import StatusUpdate from "./components/StatusUpdate";
